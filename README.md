@@ -9,7 +9,7 @@ A) I will choose Braintree Payment Gateway because the transactions charges very
 
 Java Coding Exercises Links:
   1. https://www.w3resource.com/java-exercises/
-  2.                        
+  2. https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_medium=newui_home&utm_campaign=first_section                      
                          
                          
                          
