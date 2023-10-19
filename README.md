@@ -13,6 +13,9 @@ Java Coding Exercises Links:
 
 Microservices Design Patterns:
   1. https://microservices.io/patterns/index.html
+
+All Interview Questions Link:
+  1. https://www.javatpoint.com/interview-questions-and-answers
                          
                          
                          
