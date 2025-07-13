@@ -27,6 +27,10 @@ Best Platform to Improve Coding Skills:
 https://leetcode.com/
 
 
+AWS Knowledge Booster or AWS Services Guide search boat:
+https://partyrock.aws/u/pbkn/IfISg-Lnb/AWS-Knowledge-Catalyst%3A-An-AI-Assistant-for-Deepening-Understanding-and-Simplifying-Complex-Cloud-Concepts
+
+
                          
                          
                          
