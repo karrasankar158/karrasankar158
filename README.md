@@ -7,12 +7,12 @@ must use in AWS Environment SERVER_PORT:5000 port Number otherwise you will get 
 Q) Which payment gateway API do you choose in your project for different kinds of transactions like debit cards, credit cards, UPI, etc?
 A) I will choose Braintree Payment Gateway because the transactions charges very less compare to Stripe Payment Gateway. 
 
+Apache Kafka:
+  1. In newer versions of Apache Kafka, ZooKeeper is removed and replaced by KRaft mode for internal cluster metadata management.
+
 Java Coding Exercises Links:
   1. https://www.w3resource.com/java-exercises/
   2. https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_medium=newui_home&utm_campaign=first_section
-
-  Apache Kafka:
-  1. In newer versions of Apache Kafka, ZooKeeper is removed and replaced by KRaft mode for internal cluster metadata management.
 
 Microservices Design Patterns:
   1. https://microservices.io/patterns/index.html
