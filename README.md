@@ -9,7 +9,10 @@ A) I will choose Braintree Payment Gateway because the transactions charges very
 
 Java Coding Exercises Links:
   1. https://www.w3resource.com/java-exercises/
-  2. https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_medium=newui_home&utm_campaign=first_section  
+  2. https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_medium=newui_home&utm_campaign=first_section
+
+  Apache Kafka:
+  1. In newer versions of Apache Kafka, ZooKeeper is removed and replaced by KRaft mode for internal cluster metadata management.
 
 Microservices Design Patterns:
   1. https://microservices.io/patterns/index.html
